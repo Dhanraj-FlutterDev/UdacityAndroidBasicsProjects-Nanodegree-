@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentPracticeMusicApp</string>
+    <string name="playlist">Playlist</string>
+    <string name="favourites">Favourites</string>
+    <string name="folders">Folders</string>
+    <string name="albums">Albums</string>
+    <string name="now_playing">Now Playing</string>
+</resources>
